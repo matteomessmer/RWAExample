@@ -4,7 +4,7 @@ RealWear Academy Example project written in Java
 In this repo there is the project of the Day 2 of the RealWear Developer Academy
 
 # The project in this repo
-This is the first project I made for the HMT-1 device.
+This is the first Android Studio project I made for the HMT-1 device.
 
 This app has a button that when pressed open the Camera App to take a photo. After a photo has been taken it opens the document Viewer 
 
